@@ -11,7 +11,7 @@ const Services = () => {
           <img
             alt="testimonial"
             className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-            src="https://dummyimage.com/302x302"
+            src="https://i.pinimg.com/564x/0a/53/e3/0a53e3581b22f46ac5e0c546dde5f368.jpg"
           />
           <p className="leading-relaxed">
             Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki
@@ -31,7 +31,7 @@ const Services = () => {
           <img
             alt="testimonial"
             className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-            src="https://dummyimage.com/300x300"
+            src="https://i.pinimg.com/736x/db/79/d0/db79d0c787626487dd13583ef8aa76f7.jpg"
           />
           <p className="leading-relaxed">
             Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki
@@ -51,7 +51,7 @@ const Services = () => {
           <img
             alt="testimonial"
             className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-            src="https://dummyimage.com/305x305"
+            src="https://i.pinimg.com/736x/a4/1b/48/a41b48051dc7bc32b8686260cc0fb4da.jpg"
           />
           <p className="leading-relaxed">
             Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki

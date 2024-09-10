@@ -24,7 +24,7 @@ const Contact = () => {
         <div className="bg-gray-100 p-6 rounded-lg" bis_skin_checked={1}>
           <img
             className="h-40 rounded w-full object-cover object-center mb-6"
-            src="https://dummyimage.com/720x400"
+            src="https://i.pinimg.com/736x/5d/29/bb/5d29bbae27737cc482b584c198b3f5d7.jpg"
             alt="content"
           />
           <h3 className="tracking-widest text-indigo-500 text-xs font-medium title-font">
@@ -43,7 +43,7 @@ const Contact = () => {
         <div className="bg-gray-100 p-6 rounded-lg" bis_skin_checked={1}>
           <img
             className="h-40 rounded w-full object-cover object-center mb-6"
-            src="https://dummyimage.com/721x401"
+            src="https://i.pinimg.com/564x/59/7e/46/597e46de24369e04307fed64d22062a8.jpg"
             alt="content"
           />
           <h3 className="tracking-widest text-indigo-500 text-xs font-medium title-font">
@@ -62,7 +62,7 @@ const Contact = () => {
         <div className="bg-gray-100 p-6 rounded-lg" bis_skin_checked={1}>
           <img
             className="h-40 rounded w-full object-cover object-center mb-6"
-            src="https://dummyimage.com/722x402"
+            src="https://i.pinimg.com/564x/44/ea/f1/44eaf172f30cd6516f90f7c207d32383.jpg"
             alt="content"
           />
           <h3 className="tracking-widest text-indigo-500 text-xs font-medium title-font">
@@ -81,7 +81,7 @@ const Contact = () => {
         <div className="bg-gray-100 p-6 rounded-lg" bis_skin_checked={1}>
           <img
             className="h-40 rounded w-full object-cover object-center mb-6"
-            src="https://dummyimage.com/723x403"
+            src="https://i.pinimg.com/564x/b9/68/82/b96882b880b2f129df1ce4ebc882d8d6.jpg"
             alt="content"
           />
           <h3 className="tracking-widest text-indigo-500 text-xs font-medium title-font">

@@ -4,7 +4,7 @@ const About = () => {
   return (
     <>
       <section className="text-gray-600 body-font">
-        <div className="container px-5 py-24 mx-auto" bis_skin_checked={1}>
+        <div className="container px-5 py-7 mx-auto" bis_skin_checked={1}>
           <div className="text-center mb-20" bis_skin_checked={1}>
             <h1 className="sm:text-3xl text-2xl font-medium text-center title-font text-gray-900 mb-4">
               Raw Denim Heirloom Man Braid
@@ -146,7 +146,7 @@ const About = () => {
               </div>
             </div>
           </div>
-          <button className="flex mx-auto mt-16 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+          <button className="flex mx-auto mt-16 text-white bg-purple-800 border-0 py-2 px-8 focus:outline-none hover:bg-purple-500 rounded text-lg">
             Button
           </button>
         </div>
